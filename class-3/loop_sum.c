@@ -10,4 +10,5 @@ int main ()
         sum = sum + i;
     }
     printf("sum = %lld \n", sum);
+    return 0;
 }
